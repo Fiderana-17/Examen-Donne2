@@ -1,0 +1,29 @@
+{
+  "city": "Beijing",
+  "fetched_at_utc": "20260910T000337Z",
+  "source": "openweathermap_air_pollution_current",
+  "raw_response": {
+    "coord": {
+      "lon": 116.4074,
+      "lat": 39.9042
+    },
+    "list": [
+      {
+        "main": {
+          "aqi": 4
+        },
+        "components": {
+          "co": 477.1,
+          "no": 22.91,
+          "no2": 15.02,
+          "o3": 4.89,
+          "so2": 7.85,
+          "pm2_5": 56.14,
+          "pm10": 81.8,
+          "nh3": 10.64
+        },
+        "dt": 1788998441
+      }
+    ]
+  }
+}
