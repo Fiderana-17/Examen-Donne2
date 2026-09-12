@@ -1,0 +1,29 @@
+{
+  "city": "Antananarivo",
+  "fetched_at_utc": "20260912T000713Z",
+  "source": "openweathermap_air_pollution_current",
+  "raw_response": {
+    "coord": {
+      "lon": 47.5079,
+      "lat": -18.8792
+    },
+    "list": [
+      {
+        "main": {
+          "aqi": 1
+        },
+        "components": {
+          "co": 185.8,
+          "no": 0,
+          "no2": 1.79,
+          "o3": 27.09,
+          "so2": 0.28,
+          "pm2_5": 6.29,
+          "pm10": 10.55,
+          "nh3": 1.65
+        },
+        "dt": 1789171228
+      }
+    ]
+  }
+}
